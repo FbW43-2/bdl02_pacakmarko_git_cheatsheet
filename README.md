@@ -2,7 +2,7 @@
 
 ## 1. Navigate to your git project folder
 
-Use `cd` to move between folders. E.g:
+Use `cd` to move between folders. For example:
 
 ```
 cd workspace
