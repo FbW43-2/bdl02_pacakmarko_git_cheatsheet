@@ -67,7 +67,17 @@ git init
 
 This command creates an empty Git repository. From now on, we can make changes to our files and permanently save those changes.
 
-## 4. Save changes to files
+## 4. Clone an existing project
+
+To clone an existing repository locally I can use the command
+
+```
+git clone repository_url
+```
+
+I **will not have** to git init after I clone a project.
+
+## 5. Save changes to files
 
 1. `git add .` (or `git add -A`)
 
